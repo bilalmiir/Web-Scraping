@@ -1,0 +1,144 @@
+,Additive Name,Purpose,Safety Level,Health Concern
+0,Acetic acid,Preservative,Safe,
+1,Acesulfame potassium,Sweetener,Avoid,Cancer
+2,Advantame,Sweetener,Safe,
+3,Air,Other,Safe,
+4,Alginate,Thickener,Safe,
+5,Allulose,Sweetener,Certain People Should Avoid,Digestive
+6,Aloe vera,Flavoring,Avoid,Cancer
+7,Ammonium compounds,Preservative,Safe,
+8,Amylase,Flavoring,Safe,
+9,Annatto,Coloring,Certain People Should Avoid,Allergies & Sensitivities
+10,Artificial and natural flavoring,Flavoring,Certain People Should Avoid,Cancer
+11,Artificial Sweeteners,Sweetener,Caution,
+12,Ascorbyl palmitate,Preservative,Safe,
+13,"Aspartame (Equal, AminoSweet)",Sweetener,Avoid,Cancer
+14,Autolyzed yeast extract,Flavoring,Certain People Should Avoid,Allergies & Sensitivities
+15,Azodicarbonamide,Coloring,Avoid,Cancer
+16,Beta-carotene,Coloring,Safe,
+17,Brazzein,Sweetener,Caution,Allergies & Sensitivities
+18,Brominated vegetable oil (bvo),Emulsifier,Avoid,Neurological & Behavioral
+19,Butylated hydroxyanisole (bha),Preservative,Avoid,Cancer
+20,Butylated hydroxytoluene (bht),Preservative,Caution,Cancer
+21,Caffeine,Vitamins & Supplements,Certain People Should Avoid,Neurological & Behavioral
+22,Calcium propionate,Preservative,Safe,
+23,Cannabidiol (CBD) ,Vitamins & Supplements,Caution,
+24,Caramel coloring,Coloring,Avoid,Cancer
+25,Carbon dioxide (carbonated water),Other,Safe,
+26,"Carboxymethyl cellulose (cmc, cellulose gum), sodium carboxymethyl cellulose",Other,Caution,Digestive
+27,Carmine (cochineal),Coloring,Certain People Should Avoid,Allergies & Sensitivities
+28,Carrageenan,Thickener,Caution,Cancer
+29,Casein (sodium caseinate),Coloring,Certain People Should Avoid,Allergies & Sensitivities
+30,Castoreum,Flavoring,Safe,
+31,Cellulose,Emulsifier,Safe,
+32,Citric acid,Flavoring,Safe,
+33,Corn Syrup,Sweetener,Cut Back,Obesity
+34,Cyclamate,Sweetener,Avoid,Cancer
+35,Cysteine,Preservative,Safe,
+36,Datem,Emulsifier,Safe,
+37,Dextrin,Emulsifier,Safe,
+38,Dextrose,Sweetener,Cut Back,Obesity
+39,Diacetyl,Flavoring,Caution,Respiratory
+40,Diacylglycerol,Oil & Oil Substitutes,Safe,
+41,EDTA (ethylenediamine tetraacetic acid),Other,Safe,
+42,Erythorbic acid,Preservative,Safe,
+43,Erythritol,Sweetener,Safe,
+44,Ferrous gluconate,Coloring,Safe,
+45,Fructose,Sweetener,Cut Back,Cardiovascular
+46,Fumaric acid,Flavoring,Safe,
+47,Gelatin,Thickener,Safe,
+48,Ginkgo biloba,Vitamins & Supplements,Avoid,Cancer
+49,Ginseng,Vitamins & Supplements,Safe,
+50,Gluconic acid (glucono delta-lactone),pH Control,Safe,
+51,Glycerin (glycerol),Other,Safe,
+52,"Guanosine monophosphate (gmp, disodium guanylate)",Flavoring,Safe,
+53,Guarana,Vitamins & Supplements,Certain People Should Avoid,Neurological & Behavioral
+54,"Gums: arabic, furcelleran, gellan, ghatti, guar, karaya, locust bean, tragacanth, xanthan",Thickener,Certain People Should Avoid,Allergies & Sensitivities
+55,Helium,Other,Safe,
+56,High-fructose corn syrup,Sweetener,Cut Back,Cardiovascular
+57,High-maltose corn syrup,Sweetener,Cut Back,
+58,HSH (hydrogenatated starch hydrolysate),Sweetener,Cut Back,Digestive
+59,HVP (hydrolyzed vegetable protein),Flavoring,Certain People Should Avoid,Allergies & Sensitivities
+60,"Inosine monophosphate (imp, disodium inosinate)",Flavoring,Safe,
+61,Inter-esterified oil,Oil & Oil Substitutes,Safe,
+62,Inulin,Vitamins & Supplements,Safe,
+63,Invert sugar,Sweetener,Cut Back,Obesity
+64,"Isolated soy protein, textured vegetable protein",Vitamins & Supplements,Safe,
+65,Isomalt,Sweetener,Cut Back,Digestive
+66,Lactic acid,Preservative,Safe,
+67,Lactitol,Sweetener,Cut Back,Digestive
+68,Lactose,Vitamins & Supplements,Certain People Should Avoid,Allergies & Sensitivities
+69,Lecithin,Preservative,Safe,
+70,Magnesium compounds,Vitamins & Supplements,Safe,
+71,Malic acid,Flavoring,Safe,
+72,Maltitol,Sweetener,Cut Back,Digestive
+73,Maltodextrin,Other,Safe,
+74,Maltotame,Sweetener,Safe,
+75,Mannitol,Sweetener,Cut Back,Digestive
+76,Monatin,Sweetener,Caution,
+77,Monk fruit extract,Sweetener,Caution,
+78,Mono- and diglycerides,Emulsifier,Safe,
+79,MSG (monosodium glutamate),Flavoring,Certain People Should Avoid,Allergies & Sensitivities
+80,Mycoprotein - Quorn,Meat Substitute,Certain People Should Avoid,Allergies & Sensitivities
+81,Natamycin (pimarcin),Preservative,Safe,
+82,Neotame,Sweetener,Safe,
+83,Nisin,Preservative,Safe,
+84,Nitrous oxide,Other,Safe,
+85,"Oat fiber, wheat fiber",Vitamins & Supplements,Safe,
+86,Olestra (olean),Oil & Oil Substitutes,Avoid,Digestive
+87,Oligofructose,Sweetener,Safe,
+88,Papain,Other,Safe,
+89,Pectin (sodium pectinate),Other,Safe,
+90,Phosphoric acid; phosphates,Vitamins & Supplements,Cut Back,Cardiovascular
+91,Polydextrose,Other,Cut Back,Digestive
+92,Polyglycerol polyricinoleate (PGPR),Emulsifier,Safe,
+93,"Polysorbate 60, 65, and 80",Emulsifier,Caution,Digestive
+94,Potassium bromate,Other,Avoid,Cancer
+95,Potassium chloride (potassium salt),Flavoring,Certain People Should Avoid,
+96,Potassium iodate,Other,Avoid,Cancer
+97,Propylene glycol,Preservative,Certain People Should Avoid,Allergies & Sensitivities
+98,Propyl gallate,Preservative,Avoid,Cancer
+99,Quinine,Flavoring,Certain People Should Avoid,Allergies & Sensitivities
+100,Saccharin,Sweetener,Avoid,Cancer
+101,Salatrim,Oil & Oil Substitutes,Cut Back,Digestive
+102,Salt,Flavoring,Cut Back,Cardiovascular
+103,Sea salt,Flavoring,Cut Back,Cardiovascular
+104,"Silicon dioxide, silica, calcium silicate",Other,Safe,
+105,Sodium benzoate (benzoic acid),Preservative,Certain People Should Avoid,Allergies & Sensitivities
+106,Sodium diacetate,Preservative,Safe,
+107,"Sodium erythorbate, erythorbic acid, sodium isoascorbate",Preservative,Safe,
+108,Sodium nitrate (nitrite),Preservative,Avoid,Cancer
+109,Sodium stearoyl lactylate,Other,Safe,
+110,"Sorbic acid, potassium sorbate",Preservative,Safe,
+111,Sorbitan monostearate,Emulsifier,Safe,
+112,Sorbitol,Sweetener,Cut Back,Digestive
+113,Starch,Thickener,Safe,
+114,Stearic acid,Flavoring,Safe,
+115,Stevia leaf extract (rebiana),Sweetener,Safe,
+116,Sucralose (Splenda),Sweetener,Avoid,Cancer
+117,Sucrose acetate isobutyrate,Emulsifier,Safe,
+118,Sugar (sucrose),Sweetener,Cut Back,Cardiovascular
+119,"Sulfites (sulfur dioxide, sodium bisulfite)",Preservative,Certain People Should Avoid,Allergies & Sensitivities
+120,Synthetic food dyes,Coloring,Avoid,
+121,Tagatose,Sweetener,Cut Back,Digestive
+122,Tartaric acid,Preservative,Safe,
+123,Taurine,Vitamins & Supplements,Safe,
+124,TBHQ (tert-butylhydroquinone),Preservative,Avoid,Cancer
+125,Thaumatin,Sweetener,Safe,
+126,Titanium dioxide,Coloring,Avoid,DNA damage
+127,Torula yeast,Flavoring,Safe,
+128,Trans fat (partially hydrogenated vegetable oil),Oil & Oil Substitutes,Avoid,Cardiovascular
+129,"Transglutaminase (""meat glue"")",Other,Caution,Food-borne Illness
+130,Triacetin (glycerol triacetate),Other,Safe,
+131,"Vanillin, ethyl vanillin",Flavoring,Safe,
+132,Vegetable oil sterols,Vitamins & Supplements,Safe,
+133,Vitamin B1 (thiamin mononitrate),Vitamins & Supplements,Safe,
+134,Vitamin B2 (riboflavin),Vitamins & Supplements,Safe,
+135,Vitamin B3 (Niacin),Vitamins & Supplements,Safe,
+136,"Vitamin B5 (pantothenic acid, sodium pantothenate)",Vitamins & Supplements,Safe,
+137,Vitamin B6 (pyridoxine),Vitamins & Supplements,Safe,
+138,"Vitamin C (ascorbic acid, sodium ascorbate)",Vitamins & Supplements,Safe,
+139,Vitamin D (D3),Vitamins & Supplements,Safe,
+140,Vitamin E (alpha tocopherol),Vitamins & Supplements,Safe,
+141,Xylitol,Sweetener,Cut Back,Digestive
+142,Yellow prussiate of soda,Other,Safe,
