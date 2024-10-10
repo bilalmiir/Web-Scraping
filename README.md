@@ -7,4 +7,4 @@ In this project we are accessing faculty data of each campus of FAST (an IT inst
 
 
 # Project 2: Scraping Food Additives Safety Ratings
-In this piece of code we are scraping food additives information to know the effect of certain food ingredients in our foods.
+In this piece of code we are scraping food additives information to know the effect of certain food ingredients on our health. It also tells whether an ingredient is safe to use or not.
